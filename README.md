@@ -1,3 +1,3 @@
 # Windows Compressor/Decompressor
-- Can compress only text files
+- Can compress text files and directories
 - Implemented algorithms: Huffman, LZW
